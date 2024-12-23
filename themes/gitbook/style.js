@@ -12,6 +12,12 @@ const Style = () => {
         background-color: black;
       }
 
+      .border {
+        border-width:1px 0 0 0;
+      }
+
+      
+
       .bottom-button-group {
         box-shadow: 0px -3px 10px 0px rgba(0, 0, 0, 0.1);
       }
